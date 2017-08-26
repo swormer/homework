@@ -7,7 +7,7 @@
 The client currently had twenty student ambassadors embedded in US universities and wanted to scale the program to 1000, while ensuring quality programming and effective brand representation.  
 
 ### User-side:  
-The role of an ambassador is murky and students are tasked with creating effective demo materials and promoting events with little guidance or support.  They also typically have minimal free time in their time-intensive majors (engineering, comp sci, bio-engineering, etc.).  In addition, the [professional community group](ux-design/1-empathy.png) is very unfriendly to students.
+The role of an ambassador is murky and students are tasked with creating effective demo materials and promoting events with little guidance or support.  They also typically have minimal free time in their time-intensive majors (engineering, comp sci, bio-engineering, etc.).  In addition, the [professional community group](1-empathy.png) is very unfriendly to students.
 
 ## Process
 We interviewed students, typical product users, and performed a competitive analysis of other ambassador programs.  We used the data to [model the ambassador's key tasks](2-taskanalysis.png) and, using personas with different experience levels, identified [three essential, inter-related functions](3-functions.jpg): 
